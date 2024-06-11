@@ -44,6 +44,6 @@ This file contains the JavaScript logic for generating random messages. It defin
 
 ## Features
 
-   -**Random Message Generation**: Each time the button is clicked, a new message is generated using random elements from predefined categories.
-   -**User-Friendly Interface**: Simple and intuitive UI with a button to generate messages and a display area for the output.
-   -**Expandable Data Sets**: The collectiveWisdom object can be easily expanded with more elements for greater variety in messages.
+- **Random Message Generation**: Each time the button is clicked, a new message is generated using random elements from predefined categories.
+- **User-Friendly Interface**: Simple and intuitive UI with a button to generate messages and a display area for the output.
+- **Expandable Data Sets**: The collectiveWisdom object can be easily expanded with more elements for greater variety in messages.
