@@ -15,7 +15,7 @@ The project consists of three main files and an optional one:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/mixed-messages.git
+   git clone https://github.com/Cody2612/mixed-messages.git
 
 2. **Navigate to the Project Directory:**
    ```sh
