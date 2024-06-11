@@ -28,22 +28,22 @@ The project consists of three main files and an optional one:
 
 Alternatively, you can double-click the index.html file to open it in your default web browser.
 
-##File Descriptions
+## File Descriptions
 
-###index.html
+### index.html
 
 This file contains the structure of the web page, including a heading, a div to display the generated message, and a button to generate a new message.
 
-###styles.css
+### styles.css
 
 This file includes the styling for the web page, making it visually appealing with a centered layout, styled button, and message display area.
 
-###script.js
+### script.js
 
 This file contains the JavaScript logic for generating random messages. It defines the collectiveWisdom object, functions to generate random numbers, and the logic to generate and display the message when the button is clicked.
 
-##Features
+## Features
 
-    -**Random Message Generation**: Each time the button is clicked, a new message is generated using random elements from predefined categories.
-    -**User-Friendly Interface**: Simple and intuitive UI with a button to generate messages and a display area for the output.
-    -**Expandable Data Sets**: The collectiveWisdom object can be easily expanded with more elements for greater variety in messages.
+   -**Random Message Generation**: Each time the button is clicked, a new message is generated using random elements from predefined categories.
+   -**User-Friendly Interface**: Simple and intuitive UI with a button to generate messages and a display area for the output.
+   -**Expandable Data Sets**: The collectiveWisdom object can be easily expanded with more elements for greater variety in messages.
